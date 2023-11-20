@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
 
-<a href="https://www.instagram.com/dong_hiuk05/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a> <img src="https://img.shields.io/badge/kdh051221-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>
+<a href="https://www.instagram.com/dong_hiuk05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a> <img src="https://img.shields.io/badge/kdh051221-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdonghiuk&show_icons=true&theme=radical)
 

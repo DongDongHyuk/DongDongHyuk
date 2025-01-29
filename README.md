@@ -26,6 +26,6 @@
 # /<> Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh12210)](https://solved.ac/kdh12210/)
 
-[![](https://visitcount.itsvg.in/api?id=DongDongHyuk&icon=7&color=12)](https://visitcount.itsvg.in)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongDongHyuk&count_bg=%232F2F2F&title_bg=%236C6C6C&icon=sparkpost.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

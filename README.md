@@ -11,10 +11,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongdonghyuk&show_icons=true&theme=radical)
 -->
 
-<h1>Hi there 🖐️</h1>
+<h1>Hi!🖐️   I'm Donghyuk!</h1>
+
+<h3>🇰🇷 ᴡᴏʀʟᴅsᴋɪʟʟs 48ᴛʜ | ʀᴏʙᴏᴛ sʏsᴛᴇᴍs ɪɴᴛᴇɢʀᴀᴛɪᴏɴ 국가대표</h3>
+
+<img src="https://github.com/user-attachments/assets/ebfadeab-451d-4b5f-9cb7-6998fed4c3c8" width="400" height="800"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/donghyuk.ppt) 
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/ebfadeab-451d-4b5f-9cb7-6998fed4c3c8" width="400" height="800"/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/donghyuk.ppt) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/donghyuk.pdf) 
 
 
 # 💻 Tech Stack:
